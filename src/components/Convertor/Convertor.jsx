@@ -46,8 +46,7 @@ function Convertor() {
                     type="text"
                     id="rgb"
                     value={rgbValue}
-                    ref={rgbInputRef}
-                    
+                    ref={rgbInputRef}                    
                 />
             </div>
             {/* Поле HEX */}
